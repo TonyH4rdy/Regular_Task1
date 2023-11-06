@@ -1,0 +1,2 @@
+requests
+gpt3discord==12.0.2
